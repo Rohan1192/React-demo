@@ -8,6 +8,7 @@ function App() {
      <h2>ROHAN REDDY</h2>
      <h2>WELCOME</h2>
      <h2>TO THE NEW WORLD</h2>
+     <h2>ONE PEICE</h2>
     </div>
   );
 }
